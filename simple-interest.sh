@@ -26,5 +26,3 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: "
    echo $s
-
-   # Sorry, I cannot find the typo. I am just adding this comment to submit the first PR.
